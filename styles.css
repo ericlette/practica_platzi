@@ -1,0 +1,14 @@
+p{
+    color:red;
+    font-family: 'Courier New', Courier, monospace;
+}
+#container{
+    margin:100px;
+    padding:20px;
+    border: 1px solid black;
+}
+
+h1{
+    background-color: aqua;
+    border: 1px solid gray;
+}
